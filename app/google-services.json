@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910257671544",
+    "project_id": "coneon--app",
+    "storage_bucket": "coneon--app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910257671544:android:298d391d83e9afab194c8d",
+        "android_client_info": {
+          "package_name": "com.example.coneonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZmTsIoCG_uZrMMrfP0jbb_gD3cQM9K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
